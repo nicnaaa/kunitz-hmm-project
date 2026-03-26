@@ -1,1 +1,1 @@
-# kunitz-hmm-project
+# Modeling the Kunitz Domain through a Profile Hidden Markov Model 
